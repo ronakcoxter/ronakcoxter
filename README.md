@@ -16,4 +16,5 @@
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-<h3 alin="left"> Machine learning</h3><img = src ="https://github.com/ronakcoxter/ronakcoxter/blob/main/bar.png?raw=true" height="200px" width =16> 
+
+<h3 alin="left"> Machine learning %45</h3><img = src ="https://github.com/ronakcoxter/ronakcoxter/blob/main/bar.png?raw=true" height="16px" width ="225px"> 
